@@ -9,8 +9,9 @@
 </p>
 <!-- Developer GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samadrita64/samadrita64/main/developer.gif" alt="Developer GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/samadrita-sinha/samadrita-sinha/main/gifimage.gif" alt="Developer GIF" width="400"/>
 </p>
+
 
 
 ---
